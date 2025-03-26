@@ -9,7 +9,7 @@ This repository contains multiple Python projects created using Google Colab. Ea
 
 ### 1️⃣ Mad Libs Python Project 🎭
 **Description:** A fun word game where you fill in blanks to create a hilarious story.
-🔗 [https://colab.research.google.com/drive/1h44oPZi0KYMsA2c9dgrl9HLYcQDe5gyy#scrollTo=zrsl5j-6kLbI&line=42&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/1h44oPZi0KYMsA2c9dgrl9HLYcQDe5gyy#scrollTo=zrsl5j-6kLbI&line=42&uniqifier=1]  
 
 ### 2️⃣ Guess the Number Game (Computer) 🎲
 **Description:** The computer selects a number, and you have to guess it.
