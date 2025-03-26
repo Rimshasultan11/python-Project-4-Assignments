@@ -13,40 +13,40 @@ This repository contains multiple Python projects created using Google Colab. Ea
 
 ### 2️⃣ Guess the Number Game (Computer) 🎲
 **Description:** The computer selects a number, and you have to guess it.
-🔗 [https://colab.research.google.com/drive/13tWyr8mon1UM36PosCrDgS1kxVNR0tKR#scrollTo=LNIvA23A0Dz5&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/13tWyr8mon1UM36PosCrDgS1kxVNR0tKR#scrollTo=LNIvA23A0Dz5&line=1&uniqifier=1]  
 
 ### 3️⃣ Guess the Number Game (User) 🔢
 **Description:** You select a number, and the computer tries to guess it.
-🔗 [https://colab.research.google.com/drive/1P4fwiv7iLnpsPhH6SBUq3h99pmOOZrgq#scrollTo=QIhM3MGg4PSu&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/1P4fwiv7iLnpsPhH6SBUq3h99pmOOZrgq#scrollTo=QIhM3MGg4PSu&line=1&uniqifier=1]  
 
 ### 4️⃣ Rock, Paper, Scissors ✊📄✂️
 **Description:** Play the classic game against the computer.
-🔗 [https://colab.research.google.com/drive/1gthadgZpk87RYMbtdp5BD1x5LgfxmFqV#scrollTo=wCedqzjf6ycR&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/1gthadgZpk87RYMbtdp5BD1x5LgfxmFqV#scrollTo=wCedqzjf6ycR&line=1&uniqifier=1]  
 
 ### 5️⃣ Hangman 🏹
 **Description:** A word-guessing game where you try to save the hangman.
-🔗 [https://colab.research.google.com/drive/1HW7jXqdDo9jpP9zETIt20vzgNpr3NA_W#scrollTo=SCD8kfB49nt9&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/1HW7jXqdDo9jpP9zETIt20vzgNpr3NA_W#scrollTo=SCD8kfB49nt9&line=1&uniqifier=1]  
 
 ### 6️⃣ Countdown Timer ⏳
 **Description:** A Python-based countdown timer application.
-🔗 [https://colab.research.google.com/drive/19nZqeweoEG-kMSVT5fShFUrz8m6ntedJ#scrollTo=dcI4Oagu3flV&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/19nZqeweoEG-kMSVT5fShFUrz8m6ntedJ#scrollTo=dcI4Oagu3flV&line=1&uniqifier=1]  
 
 ### 7️⃣ Password Generator 🔐
 **Description:** Generates secure and random passwords for better security.
-🔗 [https://colab.research.google.com/drive/13krOAUf3aT4zStk09JCUPkwCD9Tr69BZ#scrollTo=byN_TflKOstY&line=1&uniqifier=1](#)  
+🔗 [https://colab.research.google.com/drive/13krOAUf3aT4zStk09JCUPkwCD9Tr69BZ#scrollTo=byN_TflKOstY&line=1&uniqifier=1]  
 
 ### 8️⃣ Streamlit BMI Calculator ⚖️
 **Description:** A web app that calculates BMI using Streamlit.
-🔗 [https://colab.research.google.com/drive/1iXqKc7XVc8N_mmcwJxGZi8pcHecPmYZK](#)  
+🔗 [https://colab.research.google.com/drive/1iXqKc7XVc8N_mmcwJxGZi8pcHecPmYZK]  
 
 ### 9️⃣ Build a Python Website with Streamlit 🌐
 **Description:** Learn how to create a website using Streamlit in just 15 minutes!
-🔗 [https://colab.research.google.com/drive/1ZUq7o5uGQfIjyR1BCQkE5VvQfl5VYRx8](#)  
+🔗 [https://colab.research.google.com/drive/1ZUq7o5uGQfIjyR1BCQkE5VvQfl5VYRx8]  
 
 ---
 
 ## Google Colab Notebook 📜
-🔗 [Colab Notebook Link](#)
+🔗 [https://colab.research.google.com/]
 
 ---
 
