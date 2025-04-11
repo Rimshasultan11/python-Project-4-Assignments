@@ -1,0 +1,5 @@
+qrcode
+pillow
+pyzbar
+opencv-python
+streamlit
