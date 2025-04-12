@@ -98,6 +98,6 @@ Run it online using Google Colab:
 [👉 Open in Google Colab](https://colab.research.google.com/drive/1hrTo3VZdDsG1Lb4s7GusknBH0Y9JT3Ay?usp=sharing)
 
 #  🔗 Live App  streamlit 
-  [live App]().
+  [live App](https://python-project-4-assignments-cards-country.streamlit.app/).
   
 *Happy coding*😊
